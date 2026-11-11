@@ -1,6 +1,62 @@
 ﻿title: scene_outside
 ---
-Ariel: coś tam test test zewnątrz type shit
+// (BLACK SCREEN)
+
+That was a week ago.
+Since then Ariel has been traveling to get to his final destination.
+Natum Amoris.
+The town he’s been sent to by the church. 
+After an exhausting journey he finally saw a light contour of the town. 
+It grew on the horizon, getting bigger by the minute, symbolizing that the trip was about to end.
+
+<<bg town_day>>
+<<show ariel basic left>>
+
+Ariel finds himself standing by the gate to the town, searching for the church.
+He couldn’t find it and he didn’t really get any particular instruction.
+The best thing he can do is simply ask someone for directions. 
+
+Ariel: Excuse me, ma’am.
+Ariel: Do you know which way would take me to the church?
+
+An old lady turned to look at Ariel.
+She smiled at him but it wasn’t that cute old lady smile Ariel expected.
+There was something weird about it…
+Something sinister…
+
+Old lady: Of course I’ll help you, sweet little boy.
+Old lady: Are you the new Priest who was supposed to be sent to us?
+Old lady: I'm glad they sent us such a cutie.
+
+// <<show ariel blush left>>
+
+At first Ariel was shocked, but then he remembered.
+The village was festering with sin.
+He knew that, but this nice, sweet lady didn’t fit into that scenario…
+
+Or did she? 
+-> So… Do you know where the church is?
+   Old Lady: Uhh, you're no fun.
+   Old Lady: What a waste of a pretty face.
+   Old Lady: The church is this way.
+-> Thank you so much sweetie. Will you tell me now, pretty lady, where the church is?
+   Old Lady: Of course, hot stuff.
+   Old Lady:The church is over there.
+
+// <<show ariel basic left>>
+
+The old lady pointed the way.
+It seems that the church is on the other side of the town.
+
+<<hide ariel>>
+
+Ariel rushed through the city.
+As he rushed through narrow alleyways and crowded streets he felt the weight of the air.
+Thick in his lungs, trying to suffocate him.
+The situation in the city is way worse than he originally thought and he could feel it now.
+He felt as if the weight of the sin surrounding this place was trying to crush him. 
+He reached the church's doors at last.
+Without thinking Ariel pushed the door open, storming inside to catch a breath.
 
 <<jump scene_faust>>
 ===

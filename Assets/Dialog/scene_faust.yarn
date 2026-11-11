@@ -1,6 +1,92 @@
 ﻿title: scene_faust
 ---
-Ariel: hello hello 
+<<bg kosciol_normal>>
+
+He wobbled farther inside without really looking forward.
+Ariel bumped into something warm…
+He bumped into someone's chest.  
+
+<<show ariel basic right>>
+<<show faust basic left>>
+
+Ariel stepped away from the person he just bumped into.
+The person in front of him was probably the same one mentioned by the church.
+The priest Ariel was supposed to help.
+
+He looked tired and slightly annoyed, but at least not mad.
+-> Forgive me, Father. I didn't see you.
+   Father: Don't worry, it's nothing.
+   Father: You must be the priest who was supposed to be sent to me, mustn't you?
+-> I'm sorry handsome… I mean Father… hot Father
+   // <<show faust annoyed left>>
+   Father:...
+   Father: Who are you?
+   Father: Are you the Priest?
+   //<<show faust basic left>>
+-> I’m so sorry… I didn't mean to bump into you, Father. Forgive me.
+   Father: Don't worry, it's nothing.
+   Father: You must be the priest who was supposed to be sent to me, mustn't you?
+
+Ariel: Yes, I am…
+Ariel: And I'm ready to help but I'm not entirely sure what the situation in the city is and how I can be of assistance…
+
+Father: You've probably heard about the invasion of demonic energy.
+Father: The city is festering with it and the people think only about the physical aspects of love.
+Father: As the Creator’s envoys, the commissionaires of Love, it is our duty to convert them to the side of righteousness.
+Father: It’s not an easy task to handle but I was informed of your outstanding performance during your seminaries.
+Father: I was hoping that wasn’t just idle chatter, but now that I look at you…
+Father: Well, let’s say my doubts were right.
+
+Ariel seems scared.
+It’s true he was doing well in school, but he never really had to perform an actual exorcism alone.
+All those times he had a back up, someone to help him and be there at all times, but this person doesn’t seem very eager to help. 
+
+Ariel looked at the handsome priest.
+-> Thanks hottie.
+	// <<show faust annoyed left>>
+	Father: Don't call me that.
+	Ariel: Okay, sure… so, how can we convert them?
+	Father: Well, you can always talk to them, but it's not very effective.
+-> Thank you Father. How can we convert them?
+	Father: Well, you can always talk to them, but it's not very effective.
+
+	Father: It's better to perform an exorcism every day but I'm too old to do this alone.
+
+Ariel: Are you talking about standard exorcism?
+Ariel: I think I can do that, Father.
+
+Father: Don't be so sure.
+Father: And don’t be late. 
+
+Ariel: Well, I won’t be late if you give me the time.
+
+The other priest seems to be a little bit fed up with Ariel.
+Maybe he expected someone more adept than a newbie with no real experience.  
+
+Father: Meet me tomorrow afternoon.
+Father: Now go.
+
+Ariel walked towards the exit, but stopped halfway and looked back at the other priest once again.
+Ariel: May I at least know your name, Father?
+Ariel: By the way, my name is Ariel…
+
+Father: I know, child, the Great Church sent me your portfolio.
+Father: My name is Faust.
+Faust: Father Faust to you.
+
+Ariel: Sure.
+Ariel smiled gently and finally left the church.
+
+<<hide Faust>>
+<<hide Ariel>>
+
+The air outside of it felt lighter than the one in town, as if the church itself was protecting them from the surrounding sin.
+Ariel took a deep breath, a shiver ran through his skin.
+The seriousness of the task hit him now like a train.
+What if he’s not prepared?
+What if he’s going to fail?
+The pureness of those souls are in his hands, it's his responsibility to help them.
+To calm himself down he decided to explore the nearby area a little bit to get a better idea of the place. 
 
 <<jump scene_marcin>>
 ===

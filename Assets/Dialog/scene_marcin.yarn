@@ -1,10 +1,127 @@
 ﻿title: scene_marcin
 ---
-<<show marcin basic right>>
+<<bg shrine>>
 
-Maricn: sup
+Ariel didn’t have to walk for long, he quickly spotted a small chapel nearby.
+Walking towards it he felt himself relaxing, he felt as if someone was slowly taking a huge rock out of his arms.
+The young priest stopped in front of the chapel, looking around.
+It was rather small, cozy, filled with small trinkets probably placed here by the followers that came here to talk to the Creator.
+It made his heart lighter, his lips curled into a small smile and he placed his hands in front of his heart, wrapping his fingers together as he prepared himself for a prayer.
+Talking with the Creator always helped Ariel clear his mind.
+
+<<show ariel basic right>>
+
+Ariel: I’m not sure if I'm ready.
+Ariel: What if I fail?
+Ariel: What if because of me this whole town will perish, consumed by sin?
+Ariel: What if…
+
+???: Fear not, for I am with you!
+
+A loud voice pierced through Ariel’s voice, making him flinch. 
+
+<<show marcin basic left>>
+
+There was someone in front of him.
+A big figure with wings and a halo above its head…
+An…
+Angel. 
+
+// <<show marcin laugh left>>
+
+Angel: Oh, sorry, I always wanted to say that.
+Angel: Makes me sound all mighty and stuff you know? 
+
+Ariel was stunned.
+There was an angel right in front of him.
+A real angel, the messenger of the Creator.
+
+//<<show marcin basic left>>
+
+Angel: Let’s start again, shall we?
+Angel: I’m Marchain, the spirit guide sent to you from the Above by the Creator itself to help you with the task you’re about to face.
+
+Marchain: And you..? 
+-> I’m Father Ariel!
+   Marchain: Oh, look at you so professional.
+   Marchain: Relax!
+   Marchain: Also, I already know who you are.
+   Marchain: I'm just messing with you a little bit. 
+-> You can call me your future husband.
+   Marchain: Oh um…
+   Marchain: Well, that's not… Anyway…
+   Marchain: Back to the matter at hand.
+
+Marchain: As I was saying.
+Marchain: I've been sent to help you.
+Marchain: The Creator heard your prayers, little priest.
+Marchain: Your little heart is filled with so much doubt right now, we can’t have that here! 
+
+An angel poked Ariel in the chest, making him blush a little bit.
+
+// <<show ariel blush left>>
+
+This is not how Ariel was picturing angels.
+He saw them as mighty beings, powerful, serious, authoritative, but this?
+This one was playful, cheerful and definitely not scary. 
+
+// <<show ariel basic left>>
+
+Ariel: The task I’m about to face…
+Ariel: The corruption in the city.
+Ariel: I’m.. not sure if I’m able to help. 
+
+Marchain: I’ll be here to guide you, to listen to your doubts, to show you the right path when you're lost.
+Marchain: I’ll be next to you to show you the way.
+Marchain: That’s my duty, little priest.
+Marchain: You just have to accept it.
+Marchain: Open your heart for me.
+
+Marchain: That’s all I’m asking for. 
+-> If you’re already here, can’t you do it? Wouldn’t that be easier?
+   Marchain: You’d think that makes more sense, and it probably does.
+   Marchain: But I can only guide someone who’s been already chosen by the Creator.
+   Marchain: Someone like you.  
+-> I can also think of other ways that will help me.
+   Marchain: You flatter me, but I don’t think that will really help you right now. 
+-> I trust you… I’ll trust your guidance.
+   Marchain: I won’t disappoint you little priest. I mean how could I, I’m a spirit guide.
+   Marchain: It’s what I do. 
+   Marchain: I’ll be right by your side when you need me.
+
+// <<show marcin laugh left>>
+
+Marchain: But now shoo, off you go.
+Marchain: Go…
+Marchain: Gather some information about the townsfolks or something. 
+Marchain: And no more doubtful thoughts.
+Marchain: Got it? 
+
+It made Ariel laugh.
+
+This whole conversation was so silly he already felt way better, and knowing that he’s under the spirit guide protection?
+Now Ariel felt like he could do anything.
+
+Ariel: Got it. 
+
+Ariel turned around to leave the chapel. 
+
+Ariel: Actually I have a que-! 
 
 <<hide marcin>>
+
+But when Ariel turned his head to look at the angel one more time, no one was there anymore.
+
+“I’ll be right by your side when you need me”.
+
+Angels weren’t supposed to lie, were they?
+
+But maybe it only works for serious situations.
+
+Ariel decided to take Marchain’s advice to heart and go back to town.
+
+Now that he knows what he’s going to face there, it should be a little bit easier.
+
 
 <<jump scene_lilian>>
 
