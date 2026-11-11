@@ -1,7 +1,12 @@
 ﻿title: testowanko
 ---
+<<bg kosciol_normal>>
+<<show ariel basic left>>
+
 Ariel: Yo yo yo
 Ariel: This is me VIP MTV ksiadz Ariel
+
+<<hide ariel>>
 
 <<menu>>
 

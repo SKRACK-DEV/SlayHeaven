@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 5ec0cebfe6aca6240a2c7ec9f99f394c
+guid: b803f5e63d954214197b0a2e6fba0dd1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3781250614862210757
-    second: ludus_basic_0
-  - first:
-      213: 2206685578149875823
-    second: ludus_basic_1
+      213: -7463337932120449055
+    second: ariel_basic_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -118,45 +115,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ludus_basic_0
+      name: ariel_basic
       rect:
         serializedVersion: 2
-        x: 78
-        y: 399
-        width: 2810
-        height: 2968
+        x: 0
+        y: 0
+        width: 2048
+        height: 2048
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b391966899c468bc0800000000000000
-      internalID: -3781250614862210757
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ludus_basic_1
-      rect:
-        serializedVersion: 2
-        x: 746
-        y: 397
-        width: 14
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f60d99087d8bf9e10800000000000000
-      internalID: 2206685578149875823
+      spriteID: 1ef134571b5ec6890800000000000000
+      internalID: -7463337932120449055
       vertices: []
       indices: 
       edges: []
@@ -165,7 +140,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3b6df5fe0da524940a13bb1c7afbf47e
     internalID: 0
     vertices: []
     indices: 
@@ -175,8 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ludus_basic_0: -3781250614862210757
-      ludus_basic_1: 2206685578149875823
+      ariel_basic: -7463337932120449055
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

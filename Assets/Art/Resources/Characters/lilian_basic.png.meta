@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d0376f36503754847a9684cde2930237
+guid: 56ff9ad59cbbfe649a532715a0124e03
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4640247391229837702
-    second: lilan_basic_0
+      213: 6421388266592477491
+    second: lilian_basic_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: lilan_basic_0
+      name: lilian_basic_0
       rect:
         serializedVersion: 2
-        x: 830
-        y: 262
-        width: 1224
-        height: 2891
+        x: 718
+        y: 11
+        width: 706
+        height: 2016
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,8 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7effcf25978a9fb0800000000000000
-      internalID: -4640247391229837702
+      spriteID: 3312b134b9a5d1950800000000000000
+      internalID: 6421388266592477491
       vertices: []
       indices: 
       edges: []
@@ -150,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      lilan_basic_0: -4640247391229837702
+      lilian_basic_0: 6421388266592477491
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

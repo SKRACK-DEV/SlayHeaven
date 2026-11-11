@@ -19,20 +19,48 @@ public class ScenaController : MonoBehaviour
         slots = new Dictionary<string, Image>
         {
             { "left", slotLeft },
-            { "right", slotCentre },
+            { "right", slotRight },
             { "centre", slotCentre }
 
         };
 
-        dialogueRunner.AddCommandHandler<string>("bg" SetBackground);
-        dialogueRunner.AddCommandHandler<string, string, string>("show" ShowCharacter);
-        dialogueRunner.AddCommandHandler<string>("hide" HideCharacter);
+        dialogueRunner.AddCommandHandler<string>("bg", SetBackground);
+        dialogueRunner.AddCommandHandler<string, string, string>("show", ShowCharacter);
+        dialogueRunner.AddCommandHandler<string>("hide", HideCharacter);
 
     }
 
     private void SetBackground(string name)
     {
-        Sprite sprite = Characters
+        Debug.Log("SetBackground: " + name);
+        Sprite sprite = Resources.Load<Sprite>("Bg/bg_" + name);
+        if (sprite == null) return;
+        
+        background.sprite = sprite;
+    }
+
+    private void ShowCharacter(string character, string expression, string position)
+    {
+        if (!slots.ContainsKey(position)) return;
+
+
+        Sprite sprite = Resources.Load<Sprite>("Characters/" + character + "_" + expression);
+        if (sprite == null) return;
+
+
+        Image slot = slots[position];
+        slot.sprite = sprite;
+        slot.gameObject.SetActive(true);
+        onStage[character] = slot;
+    }
+
+    private void HideCharacter(string character)
+    {
+        if (onStage.TryGetValue(character, out Image slot))
+        {
+            slot.gameObject.SetActive(false);
+            onStage.Remove(character);
+        }
     }
 
 

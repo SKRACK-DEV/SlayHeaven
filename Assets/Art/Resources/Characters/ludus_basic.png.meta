@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: d500014a40fe34d4e89295401ac46437
+guid: 5ec0cebfe6aca6240a2c7ec9f99f394c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4515673302072486743
-    second: bg_kosciol_night_0
+      213: -3781250614862210757
+    second: ludus_basic_0
+  - first:
+      213: 2206685578149875823
+    second: ludus_basic_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,23 +118,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bg_kosciol_night_0
+      name: ludus_basic_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 1080
+        x: 62
+        y: 3
+        width: 1970
+        height: 2045
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9a4114c8e0b1551c0800000000000000
-      internalID: -4515673302072486743
+      spriteID: b391966899c468bc0800000000000000
+      internalID: -3781250614862210757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ludus_basic_1
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 397
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60d99087d8bf9e10800000000000000
+      internalID: 2206685578149875823
       vertices: []
       indices: 
       edges: []
@@ -140,7 +165,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 20a20eeecc03c264b9685c6d2b1db82e
     internalID: 0
     vertices: []
     indices: 
@@ -150,7 +175,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bg_kosciol_night_0: -4515673302072486743
+      ludus_basic_0: -3781250614862210757
+      ludus_basic_1: 2206685578149875823
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

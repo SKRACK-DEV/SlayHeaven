@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b803f5e63d954214197b0a2e6fba0dd1
+guid: d500014a40fe34d4e89295401ac46437
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7463337932120449055
-    second: ariel_basic_0
+      213: -4515673302072486743
+    second: bg_kosciol_night_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,23 +115,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ariel_basic_0
+      name: bg_churchd
       rect:
         serializedVersion: 2
-        x: 1173
-        y: 62
-        width: 1231
-        height: 3395
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ef134571b5ec6890800000000000000
-      internalID: -7463337932120449055
+      spriteID: 9a4114c8e0b1551c0800000000000000
+      internalID: -4515673302072486743
       vertices: []
       indices: 
       edges: []
@@ -140,7 +140,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e8a9f8e12ccaae24ab575ff3d2092b19
     internalID: 0
     vertices: []
     indices: 
@@ -150,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ariel_basic_0: -7463337932120449055
+      bg_churchd: -4515673302072486743
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
