@@ -1,0 +1,50 @@
+﻿title: scene_church
+---
+//daj czarny ekran
+
+Two months ago.
+
+<<bg kosciol_retrospekcja>>
+
+The High Priest of Devotion: Father Ariel, I must say you have matched our expectations.
+The High Priest of Devotion: You did an excellent job during your seminaries and you have passed every single test with outstanding scores.
+The High Priest of Devotion: However, it is just the start of your journey.
+The High Priest of Devotion: A few months ago we got a report from Natum Amoris, about a set of peculiar events.
+The High Priest of Devotion: The townspeople have started to change, marriages collapsed, families split apart.
+The High Priest of Devotion: We had sent an experienced exorcist there already, to confirm if it’s a demonic activity.
+The High Priest of Devotion: The state of the village and the people is worse than we originally expected and he needs help. 
+
+<<show ariel basic left>>
+
+Ariel: That sounds terrible Father, but you’re telling me this, because..? 
+
+The High Priest of Devotion: The Church of Love has decided that you are a perfect candidate for this job. Congratulations.
+
+Ariel: Excuse me? 
+
+The High Priest of Devotion: Worry not!
+The High Priest of Devotion: You have everything you need.
+The High Priest of Devotion: Passion.
+The High Priest of Devotion: Courage.
+The High Priest of Devotion: Knowledge.
+The High Priest of Devotion: And most importantly your heart is full of Love.
+The High Priest of Devotion: Any questions?
+
+-> Ariel: No Father, I understand.
+
+-> Ariel: Well actually…
+
+The High Priest of Devotion: Great, since you know everything, you can go pack your bags.
+
+The High Priest of Devotion: You don’t need to pack much.
+
+The High Priest of Devotion: You’re only going there for a few days.
+
+The High Priest of Devotion: Hurry, you don’t have much time left.
+
+<<hide ariel>>
+
+<<jump scene_outside>>
+
+===
+
