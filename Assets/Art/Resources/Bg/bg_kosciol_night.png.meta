@@ -115,7 +115,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bg_churchd
+      name: bg_kosciol_night
       rect:
         serializedVersion: 2
         x: 0
@@ -150,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bg_churchd: -4515673302072486743
+      bg_kosciol_night: -4515673302072486743
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

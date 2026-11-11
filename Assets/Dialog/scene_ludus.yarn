@@ -1,6 +1,195 @@
 ﻿title: scene_ludus
 ---
-Narrator: evil type shit
+<<bg town_night>>
+
+By the time Ariel came back to the church, the sky went dark.
+The people in town were settling down, and the air was getting chilly.
+
+<<bg kosciol_night>>
+
+The priest walked inside the building and sighed loudly.
+Well, that was… a day.
+It was A DAY for sure.
+Now he just wanted to take his bags, walk to the presbytery, and go to sleep.
+He heard some rustling echoing through the empty church. 
+
+<<show ariel basic left>>
+
+Ariel: Father Faust..? 
+
+Silence. Maybe he’s hearing things?
+It’s possible, he’s actually pretty damn tired. 
+
+???: Hihihi.
+
+//(muzyka typu scawwy exorcism)
+
+//(Ariel blush)
+
+Ariel jumped.
+Oh no, no, he definitely heard that.
+Someone's here.
+Laughing.
+And it definitely wasn’t Faust. 
+
+???: Oh, you’re cute.
+???: Cute and stupid.
+???: Mhm!
+???: Perfect!
+???: That’s how I like them, you know?
+???: Cute, dumb, naive, and sooo, sooo pure.
+???: It’s going to be so fun corrupting your soul-!
+
+Ariel: Wha-..?
+
+???: Hihihi.
+
+//(Ariel basic)
+
+Another giggle.
+And from the mist before Ariel's eyes, a silhouette grew more and more vivid.
+
+<<show ludus basic right>>
+
+It wasn’t Faust.
+Nor Marchein, nor Lilian.
+It was someone completely different.
+Something completely different.
+A demon.
+A real… real demon.
+Ariel wanted to run away, but all of a sudden his legs felt too heavy to move.
+His breathing grew ragged. 
+
+The Demon: Oh, you’re scared!
+The Demon: Why? What do you think I'll do?
+The Demon: Kill you? Eat your soul? Drink your blood?
+The Demon: Oh please, that would be extremely boring.
+The Demon: No, no, I’m here to have fun!
+
+Ariel: W-What do you mean fun?
+Ariel: Who are you?
+Ariel: W-why are you here?
+
+//(Ludus silly)
+
+The Demon: Woah, hold your horses!
+The Demon: That’s a shit ton of questions, don’t you think?
+The Demon: I’m Ludus.
+Ludus: Why am I here?
+Ludus: Hmmm, let’s think about it together!
+Ludus: Maybe I’m here because our little army is threatened now by two priests instead of one?
+Ludus: I don’t know, maybe?
+Ludus: Yes, I think that's the reason for sure.
+Ludus: For the fun part…
+Ludus: Well…
+Ludus: Use that pretty head of yours.
+
+Ludus: Come on. You can do it.  
+-> Oh, you mean… No! I won’t crumble under your sinful influence, you demon!
+   Ludus: Oh, so you do have some fire in you!
+   Ludus: Interesting…
+-> With you “fun” doesn’t really seem like a bad idea.
+  Ludus: Oh?
+  Ludus: Maybe it’ll be easier than I thought.
+  Ludus: Good. 
+
+//(ariel_blush)
+
+Ariel was stunned.
+All of those years at the seminaries taught him that facing a demon will be fatal.
+That if they find you, especially alone, they won't spare you.
+There was also that…
+How is it possible that the demon appeared inside the church?
+This is the home of the Creator.
+No sinful creatures should be able to cross the door to this holy place…
+So how..?
+
+//(ariel_basic)
+
+Ludus: Hm?
+Ludus: Oh, I know, let me guess!
+
+//(ludus silly)
+
+Ludus: You’re probably wondering why I decided to play with you instead of just ending you, right?
+Ludus: And this whole church thing must be confusing too…
+
+Ariel: How do you..?
+
+//(ludus basic)
+
+Ludus: Oh, don’t be silly.
+Ludus: It’s written all over your pretty face!
+Ludus: Those things are actually connected.
+Ludus: The mere fact that I can be here.
+Ludus: In front of you.
+Ludus: In the temple of your beloved Creator, means one thing.
+Ludus: The corruption is too strong already. 
+
+//(Ariel blush)
+
+The atmosphere around them turned heavy.
+Heavier than before.
+Ludus's voice turned deeper.
+More serious. 
+
+//(Ariel basic)
+
+
+Ludus: You see…
+Ludus: This is just a building now.
+Ludus: Nothing more.
+Ludus: Without the followers…
+Ludus: Those sacred places lose all their power…
+Ludus: That's why I decided to toy with you for a little bit.
+
+Ludus: Because you already lost, priest.   
+->  No… No, we didn’t! Love is stronger than you think! In the end, people will always choose the right way! Just you see! 
+   Ludus: So you’re delusional as well, I see. 
+-> Lost… Maybe you’re right. Those townsfolk are a lost cause anyway…
+  Ludus: You’ll make my job so easy. It’s almost cute. 
+
+Ludus: You are so different from any other person I’ve ever encountered.
+Ludus: Is it because you're a priest?
+Ludus: Maybe. Well, we will have to wait and see, right?
+Ludus: I just can’t wait to see you struggle like a little beetle turned on its back. 
+
+Ariel couldn’t even defend himself because the demon was gone.
+
+<<hide ludus>>
+<<hide ariel>>
+
+Ariel collapsed on the floor.
+Hitting his knees down on the cold stone of the church's flooring. 
+He looked up at the altar, the Creator's symbol.
+What was he supposed to do?
+This was supposed to be an easy task.
+Just an ordinary exorcism and conversion.
+But today couldn’t possibly prove him wrong more than it did.
+What are even his options now?
+He can go and talk to Faust.
+With his experience and knowledge, they surely will be fine.
+On the other hand there's Marchain, a literal angel and a spirit guide that already offered him help.
+Maybe that's a more sane thing to do?
+But he also met Lilian, who’s so eager to help!
+He already started gathering information for him.
+Maybe he should ask him for help?
+Or maybe…
+He should try converting the demon.
+Ludus surely is a leader here.
+If he’ll be able to convert him, the rest of the demons won't be a problem anymore…
+Or..
+What if the demon is right?
+What if the town is already lost?
+So…
+What’s the right way? 
+
+...
+
+(tu ekran z wyborem chłopa)
+
+elo
+
 
 <<menu>>
 
