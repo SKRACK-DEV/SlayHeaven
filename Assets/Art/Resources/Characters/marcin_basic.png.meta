@@ -115,15 +115,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: marchain_basic_0
+      name: marchain_basic
       rect:
         serializedVersion: 2
-        x: 838
+        x: 0
         y: 7
-        width: 1352
-        height: 3389
+        width: 2048
+        height: 2041
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -140,7 +140,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f4a057cf2c1f7f846a4e80b945856962
     internalID: 0
     vertices: []
     indices: 
@@ -150,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      marchain_basic_0: 8707523017153365879
+      marchain_basic: 8707523017153365879
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,4 +1,4 @@
-﻿title: testowanko
+﻿title: scene_church
 ---
 <<bg kosciol_normal>>
 <<show ariel basic left>>
@@ -8,6 +8,7 @@ Ariel: This is me VIP MTV ksiadz Ariel
 
 <<hide ariel>>
 
-<<menu>>
+<<jump scene_outside>>
 
 ===
+

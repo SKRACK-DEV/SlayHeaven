@@ -1,7 +1,12 @@
 {
   "projectFileVersion": 4,
   "sourceFiles": [
-    "Test.yarn"
+    "scene_church.yarn",
+    "scene_outside.yarn",
+    "scene_faust.yarn",
+    "scene_marcin.yarn",
+    "scene_lilian.yarn",
+    "scene_ludus.yarn"
   ],
   "excludeFiles": [
     "**/*~/*",

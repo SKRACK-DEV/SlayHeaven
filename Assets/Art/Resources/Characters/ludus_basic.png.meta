@@ -118,12 +118,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ludus_basic_0
+      name: ludus_basic
       rect:
         serializedVersion: 2
-        x: 62
+        x: 0
         y: 3
-        width: 1970
+        width: 2032
         height: 2045
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -175,7 +175,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ludus_basic_0: -3781250614862210757
+      ludus_basic: -3781250614862210757
       ludus_basic_1: 2206685578149875823
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0

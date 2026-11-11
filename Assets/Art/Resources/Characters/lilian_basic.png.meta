@@ -115,15 +115,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: lilian_basic_0
+      name: lilian_basic
       rect:
         serializedVersion: 2
-        x: 718
-        y: 11
-        width: 706
-        height: 2016
+        x: 0
+        y: 0
+        width: 2048
+        height: 2048
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -140,7 +140,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 98c83145adcdd8d44ba00cae55bd841f
     internalID: 0
     vertices: []
     indices: 
@@ -150,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      lilian_basic_0: 6421388266592477491
+      lilian_basic: 6421388266592477491
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
