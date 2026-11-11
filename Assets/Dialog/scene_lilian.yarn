@@ -1,6 +1,133 @@
 ﻿title: scene_lilian
 ---
-Lilian: ale checa nie ma mnie
+<<bg town_afternoon>>
+
+On his way to the town, Ariel was trying to comprehend what just happened.
+It all started to catch up to him.
+He just met an angel.
+The Creator's messenger itself.
+It was surreal.
+Maybe he was dreaming?
+Hallucinating?
+How could he be sure that wasn’t just psychosis?
+Maybe he should talk to Father Faust about it?
+
+<<show ariel basic right>>
+
+Ariel just stepped into the town, but maybe it's best to go back to the church?
+
+???: Hey! Don’t ignore me!
+
+???: Listen to me!
+
+???: What you do is wrong! 
+
+But then he heard some very sweet and melodic voice filled with clear frustration.
+That's probably some town person…
+But maybe talking to them is a good start? 
+Yes, Faust told him that talking isn’t particularly effective, but it’s always worth a shot.
+Ariel walked towards the voice, which only grew louder. 
+
+???: Please just listen to me! I’m trying to help you all!!
+
+<<show lilian basic left>>
+
+Ariel wasn’t expecting to see…
+Yet another angel.
+A smaller, frustrated figure in front of him that was clearly trying to catch people's attention…
+People were walking around the angel, completely ignoring its presence.
+
+Ariel: I don’t think they can see you, you know?
+
+Ariel said gently not to startle the little angel, which jumped a little bit anyway.
+
+
+The angel turned its head towards Ariel, looking right at him with its big eyes. 
+
+// <<show lilian silly left>>
+
+Angel: OH! I-I know that!
+Angel: Of course I do!
+
+An angel made a cute pose sticking his tongue out.
+But despite its words, Ariel wasn't sure about their honesty.
+That little angel was clearly frustrated just a second ago…
+
+// <<show lilian basic left>>
+
+Angel: But you can see me!
+Angel: Hi! Hi, I’m Lilian!
+Lilian: I’m… a spirit guide in training!
+Lilian:But worry not!
+
+Lilian: I’m very good already, so you’re in good hands priest!  
+-> Are you sure you know what you're doing?
+   Lilian: Yes, I know what I’m doing!
+   Lilian: What kind of question is that! 
+-> You’re an angel after all! I’m sure you’ll be helpful!
+   Lilian: Of course I will! I can’t wait to prove it to you!
+-> Good hands, huh? I’m sure you know how to use them.
+   Lilian: Oh.. Oh, I-I’m not sure what you mean by that…
+
+Lilian: You’ve probably met my colleague already!
+Lilian: You know!
+Lilian: Tall, long hair and all that very much angelic aura.
+Lilian: Marchain is awesome, but…
+Lilian: But I can do better!
+Lilian: And you can only have one spirit guide!
+Lilian: That’s why unlike some, I already started doing some research for you!
+Lilian: I’ve been observing those humans for a while already, and I gathered plenty of information for you!
+
+// <<show lilian silly left>>
+
+Lilian: Aren’t I awesome? 
+
+// <<show ariel blush right>>
+
+Ariel smiled gently, feeling a little bit nervous around the young angel.
+His excitement was cute and all, but he seemed to be… inexperienced.
+
+// <<show ariel basic right>>
+
+Is that how Faust was looking at him earlier?
+-> I really appreciate your hard work. Thank you for doing so much already! 
+   Lilian: You really think… Thank you!! 
+-> Yes, yes, you are awesome, and very cute as well.
+   Lilian: Oh…
+   Lilian: Oh, thank you…
+
+// <<show lilian basic>>
+
+Lilian: Oh, and as your spirit guide I can also-! 
+
+Lilian was interrupted by a loud voice.
+Ariel knew this voice… but now it was more authoritarian.
+Marchain..?
+
+Marchain: Lilian! You little rascal
+Marcgain: Come here this instant! 
+
+Lilian looked at Ariel as if to apologize for being interrupted, when the conversation started getting interesting.
+This little angel's excitement was almost contagious.
+Ariel smiled back at him.
+
+Ariel: It’s okay. Duty calls, right?
+
+Lilian: Yes… Duty.
+Lilian: I’m sorry!
+Lilian: We’re going to meet again!
+
+Lilian scurried away, flapping his little wings like a small dove that was just learning how to fly.
+
+<<hide lilian>>
+
+It made Ariel chuckle a little bit.
+Adorable. 
+The sun started settling down.
+Ariel probably should go back to the church.
+Despite everything, he feels that staying in this town after the sun settles under the horizon is just a stupid decision.
+
+<<hide ariel>>
 
 <<jump scene_ludus>>
 
