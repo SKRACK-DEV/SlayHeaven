@@ -12,21 +12,21 @@ public class ScenaController : MonoBehaviour
     [SerializeField] private Image slotRight;
 
     private Dictionary<string, Image> slots;
-    private Dictionary<string, Image> onStage = new Dictionary<string, Image>();
+    private Dictionary<string, Image> onStage = new Dictionary<string, Image>(); //potem mozna dodac animation / gif jakby bylo mrugarnie postaci
 
     private void Awake()
     {
         slots = new Dictionary<string, Image>
         {
             { "left", slotLeft },
-            { "right", slotRight },
+            { "right", slotRight },  //mozna dac wiecej slotow zeby lepiej rozmiescic postaci na ekranie w razi co
             { "centre", slotCentre }
 
         };
 
         dialogueRunner.AddCommandHandler<string>("bg", SetBackground);
         dialogueRunner.AddCommandHandler<string, string, string>("show", ShowCharacter);
-        dialogueRunner.AddCommandHandler<string>("hide", HideCharacter);
+        dialogueRunner.AddCommandHandler<string>("hide", HideCharacter);   //tu potrzeba jeszcze fade itd ale to do dogadania
 
     }
 
